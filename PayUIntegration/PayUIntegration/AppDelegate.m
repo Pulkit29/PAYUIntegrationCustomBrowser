@@ -9,7 +9,9 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
+
 @property (weak, nonatomic) UIViewController *paymentOptionVC;
+
 @end
 
 @implementation AppDelegate
